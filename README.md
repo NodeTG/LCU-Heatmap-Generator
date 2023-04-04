@@ -1,6 +1,8 @@
 ## LCU Heatmap Generator
 This application integrates with LEGO City Undercover to create a heatmap/path that shows where the player has travelled in the hub world.
 
+https://youtu.be/pL_0p8GlwCw
+
 ## Requirements
 
  - Python 3.10
